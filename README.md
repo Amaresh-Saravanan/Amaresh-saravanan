@@ -1,81 +1,77 @@
-# Hi 👋 I'm **Amaresh Saravanan**
+<p align="center">
+  <img src="https://media.giphy.com/media/your-animated-banner-link-here/giphy.gif" alt="Banner" width="100%" style="border-radius: 8px;" />
+</p>
 
-🎓 **Computer Science Engineering Student**
-💻 **Full‑Stack Web Developer** | 🚀 **Aspiring Software & ML Engineer**
-
----
-
-## 👨‍💻 About Me
-
-I'm a passionate **Computer Science Engineering student** from **Tamil Nadu, India**, with hands‑on experience in **full‑stack web development** and a strong interest in **machine learning**. I enjoy building real‑world applications, learning core CS fundamentals, and continuously improving my problem‑solving skills.
-
-* 🔭 Currently working on **deployment & maintenance of a live business website** – **Vikram Technologies, Erode**
-* 📚 Strengthening **Data Structures & Algorithms**
-* 🤖 Exploring **Machine Learning** alongside core CS concepts
-* 👥 Open to collaborating on **Web Development** and **Beginner‑level ML projects**
-* 🚀 Actively seeking **Internship opportunities** in **Web / ML / Software** domains
+# Hi, I'm Amaresh Saravanan 👋
 
 ---
 
-## 🛠️ Skills & Technologies
+### ℹ️ About
+I am an AI & Machine Learning Engineer and Full-Stack Developer with a strong foundation in building production-grade intelligent systems. Currently pursuing a Tech in AI&ML at Aditya Engineering College, I combine deep theoretical knowledge with a hands-on ability to scale solutions from the ground up.
 
-### Programming Languages
+---
 
-C • C++ • Java • Python • JavaScript
+### 🛠️ Tech Stack
 
-### Web Development
-
-HTML5 • CSS3 • React • Next.js • Tailwind CSS • Vite • Node.js
-
-### Databases & Backend
-
-PostgreSQL • MySQL • Supabase
-
-### Tools & Platforms
-
-Git • VS Code
-
+#### **Frontend**
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++" /></a>
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java" /></a>
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
-<a href="https://nextjs.org/docs"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" title="Next.js" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></a>
-<a href="https://vitejs.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite" /></a>
-<a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
-<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code" /></a>
-<a href="https://supabase.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL" /></a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</p>
+
+#### **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+#### **Cloud, DevOps & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 📫 Contact Me
+### 🧠 AI / ML Expertise
 
-* 📍 **Location:** Tamil Nadu, India
-* ✉️ **Email:** [amareshhsaravanan2617@gmail.com](mailto:amareshhsaravanan2617@gmail.com)
-* 🌐 **Live Project:** [Vikram Technologies](http://vikramtech.com)
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| Large Language Models | Advanced | Prompt engineering, RAG pipelines, LLM API integration |
+| Natural Language Processing | Expert | Document summarization, entity extraction, sentiment analysis |
+| Machine Learning | Advanced | Regression, classification, clustering, predictive modeling |
+| Computer Vision | Experienced | Object detection, image segmentation, OCR data extraction |
+| Data Analytics | Expert | Policy analysis, feature extraction from unstructured data |
+| AWS AI Services | Certified | AI Practitioner, Cloud Foundations |
+| Deep Learning | Intermediate | Neural networks, NPTEL certified |
 
 ---
 
-## 🌐 Social Profiles
+### 🌟 Featured Projects
 
-<p align="left">
-<a href="https://www.github.com/Amaresh-Saravanan"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.gitlab.com/Amaresh-Saravanan"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" /></a>
-<a href="https://www.linkedin.com/in/amaresh028"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+* **PolicyGuard AI**: An AI-Powered Policy Intelligence Platform.
+
+---
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh-Saravanan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaresh-Saravanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amaresh-Saravanan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me. I'm always open to learning and collaborating!*
-
-
-
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amaresh-Saravanan&theme=radical&no-bg=true" alt="Trophies" />
+</p>
