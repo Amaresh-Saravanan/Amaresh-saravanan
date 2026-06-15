@@ -171,15 +171,41 @@ A web application for smart parking spot availability tracking.
 
 ## 📈 GitHub Analytics
 
+### Your GitHub Dashboard
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh-Saravanan&layout=compact&bg_color=0d1117&title_color=ff007f&text_color=00f0ff&icon_color=00f0ff&border_color=ff007f&border_radius=10&card_width=400" alt="Top Languages" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaresh-Saravanan&show_icons=true&bg_color=0d1117&title_color=ff007f&text_color=00f0ff&icon_color=00f0ff&border_color=ff007f&border_radius=10&card_width=400&count_private=true" alt="GitHub Stats" />
+  <img width="100%" src="https://raw.githubusercontent.com/Amaresh-Saravanan/Amaresh-Saravanan/main/github-stats.png" alt="GitHub Stats Dashboard" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 240, 255, 0.3); margin: 20px 0;" />
 </p>
 
+### Your Contribution Graph
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amaresh-Saravanan&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ff007f&area=true&hide_border=false&border_color=ff007f&border_radius=10&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+  <img width="100%" src="https://raw.githubusercontent.com/Amaresh-Saravanan/Amaresh-Saravanan/main/contribution-graph.png" alt="Contribution Graph" style="border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 240, 255, 0.3); margin: 20px 0;" />
 </p>
+
+### 🎯 Stats Summary
+
+| Metric | Value | Badge |
+|--------|-------|-------|
+| **2026 Commits** | 37 | 🎯 |
+| **Public Repositories** | 106 | 📚 |
+| **Total Stars** | 255 | ⭐ |
+| **Pull Requests** | 7 | 🔀 |
+| **Issues** | 2 | 🐛 |
+| **Contributions** | 8 | 🚀 |
+
+---
+
+### 📊 Interactive Animation
+
+> **💡 Tip:** Open the `animated-stats.html` file in your browser to see animated line graphs with moving contribution patterns!
+
+**Features of the animation:**
+- 🎬 Lines animate smoothly across the visualization
+- ✨ Pulsing data points that move fluidly
+- 📈 Real-time contribution tracking display
+- 🎨 Gradient effects with smooth transitions
+- 🔄 Click to restart animations anytime
+
+
 
 ---
 
