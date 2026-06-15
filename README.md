@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> &nbsp;Hey! I'm Amaresh Saravanan
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp;Hey! I'm Amaresh Saravanan
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="coding gif" />
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="coding gif" />
 
 I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in Computer Science at SRM Institute of Science and Technology*. I build modern web & mobile applications with **React, TypeScript and Node.js**, while crafting practical **ML & NLP-based tools**.
 
@@ -46,42 +46,59 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 
 ## 🛠️ Tech Stack
 
-<h3 align="center">💬 Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4facfe&color=0d1117&labelColor=0d1117" alt="Python" />
-  <img src="https://img.shields.io/badge/─────-0d1117?style=for-the-badge" alt="" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&color=0d1117&labelColor=0d1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/─────-0d1117?style=for-the-badge" alt="" />
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&color=0d1117&labelColor=0d1117" alt="TypeScript" />
-</p>
+### 💬 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark&perline=3" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" />
 </p>
 
-<h3 align="center">🎨 Frontend & Mobile</h3>
+### 🎨 Frontend & Mobile
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark&perline=5" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117" alt="React Native" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=0d1117" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1117" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
 </p>
 
-<h3 align="center">⚙️ Backend, Databases & Cloud</h3>
+### ⚙️ Backend, Databases & Cloud
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql,mysql&theme=dark&perline=5" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql,mysql&theme=dark" alt="Backend" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=96BE28&labelColor=0d1117" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black&labelColor=0d1117" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Shopify-96BE28?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0d1117" alt="Shopify" />
+  <img src="https://img.shields.io/badge/Liquid-4facfe?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0d1117" alt="Liquid" />
 </p>
 
-<h3 align="center">🤖 AI / ML & Developer Tools</h3>
+### 🤖 AI / ML & Developer Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,docker,vscode,github&theme=dark&perline=6" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,docker,vscode,github,postman&theme=dark" alt="Tools" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge&logo=pytorch&logoColor=4ECDC4&labelColor=0d1117" alt="NLP" />
-  <img src="https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0d1117" alt="Postman" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NLP-4ECDC4?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117" alt="NLP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" alt="Postman" />
 </p>
 
 ---
@@ -102,11 +119,11 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 | 📱 Implemented responsive design with Liquid | Cross-device compatibility |
 
 <p>
-  <img src="https://img.shields.io/badge/Shopify-0d1117?style=flat-square&logo=shopify&logoColor=96BE28&labelColor=0d1117" alt="Shopify" />
-  <img src="https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26&labelColor=0d1117" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6&labelColor=0d1117" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0d1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Liquid-0d1117?style=flat-square&logo=shopify&logoColor=4facfe&labelColor=0d1117" alt="Liquid" />
+  <img src="https://img.shields.io/badge/Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white&labelColor=0d1117" alt="Shopify" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Liquid-4facfe?style=flat-square&logo=shopify&logoColor=white&labelColor=0d1117" alt="Liquid" />
 </p>
 
 </details>
@@ -115,21 +132,17 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 
 ## 🎓 Education
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏛️_SRM_Institute_of_Science_and_Technology-0d1117?style=for-the-badge&labelColor=0d1117&color=0d1117&logoColor=4facfe" />
-</p>
-
-| 📚 Degree | 📍 Location | 📅 Graduation | ⭐ Focus |
-|---|---|---|---|
-| **B.Tech — Computer Science** | Chennai, India | **June 2028** (Expected) | Web Dev · ML · AI · NLP |
+| 🏛️ Institution | 📚 Degree | 📍 Location | 📅 Graduation | ⭐ Focus |
+|---|---|---|---|---|
+| **SRM Institute of Science and Technology** | B.Tech — Computer Science | Chennai, India | **June 2028** (Expected) | Web Dev · ML · AI · NLP |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Amaresh-Saravanan&show_icons=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&icon_color=4facfe&border_color=1a2744&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh-Saravanan&layout=compact&langs_count=8&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&border_color=1a2744&border_radius=10" alt="Top Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Amaresh-Saravanan&show_icons=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&icon_color=4facfe&border_color=1a2744&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh-Saravanan&layout=compact&langs_count=8&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&border_color=1a2744&border_radius=10&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -145,7 +158,7 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amaresh-Saravanan&theme=darkhub&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amaresh-Saravanan&theme=discord&no-frame=true&row=1&column=7&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -183,11 +196,11 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Advanced_React_Patterns-Hooks_·_Context_·_Performance-4facfe?style=for-the-badge&labelColor=0d1117" alt="React" /><br/><br/>
-  <img src="https://img.shields.io/badge/RAG_Systems-Retrieval_Augmented_Generation-4facfe?style=for-the-badge&labelColor=0d1117" alt="RAG" /><br/><br/>
-  <img src="https://img.shields.io/badge/NLP_&_LLMs-Intelligent_Text_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="NLP" /><br/><br/>
-  <img src="https://img.shields.io/badge/Headless_Commerce-Shopify_Advanced_+_API-4facfe?style=for-the-badge&labelColor=0d1117" alt="Commerce" /><br/><br/>
-  <img src="https://img.shields.io/badge/Cloud_&_DevOps-Docker_·_CI/CD_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="Cloud" /><br/><br/>
-  <img src="https://img.shields.io/badge/AI/ML_Integration-Practical_ML_in_Web_Apps-4facfe?style=for-the-badge&labelColor=0d1117" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/RAG_Systems-Retrieval_Augmented_Generation_with_LLMs-4facfe?style=for-the-badge&labelColor=0d1117" alt="RAG" /><br/><br/>
+  <img src="https://img.shields.io/badge/NLP_%26_LLMs-Intelligent_Text_Processing_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="NLP" /><br/><br/>
+  <img src="https://img.shields.io/badge/Headless_Commerce-Shopify_Advanced_%2B_API-4facfe?style=for-the-badge&labelColor=0d1117" alt="Commerce" /><br/><br/>
+  <img src="https://img.shields.io/badge/Cloud_%26_DevOps-Docker_·_CI%2FCD_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="Cloud" /><br/><br/>
+  <img src="https://img.shields.io/badge/AI%2FML_Integration-Practical_ML_in_Web_Apps-4facfe?style=for-the-badge&labelColor=0d1117" alt="AI/ML" />
 </p>
 
 ---
