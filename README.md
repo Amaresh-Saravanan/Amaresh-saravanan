@@ -141,24 +141,12 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Amaresh-Saravanan&show_icons=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&icon_color=4facfe&border_color=1a2744&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh-Saravanan&layout=compact&langs_count=8&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&border_color=1a2744&border_radius=10&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="98%" src="https://streak-stats.demolab.com?user=Amaresh-Saravanan&background=0d1117&border=1a2744&stroke=1a2744&ring=4facfe&fire=4facfe&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4facfe&sideLabels=4facfe&dates=8b949e&border_radius=10" alt="GitHub Streak" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Amaresh-Saravanan&show_icons=true&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&icon_color=4facfe&border_color=1a2744&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh-Saravanan&layout=compact&langs_count=8&bg_color=0d1117&title_color=4facfe&text_color=c9d1d9&border_color=1a2744&border_radius=10" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Amaresh-Saravanan&bg_color=0d1117&color=4facfe&line=4facfe&point=c9d1d9&area=true&area_color=1a2744&border_color=1a2744&hide_border=false&radius=5" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amaresh-Saravanan&theme=discord&no-frame=true&row=1&column=7&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 ---
