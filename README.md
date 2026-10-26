@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/Amaresh-Saravanan/Amaresh-Saravanan/main/assets/banner.png" width="100%" alt="Amaresh Saravanan - Header Banner" style="border-radius: 12px;" />
+  <img src="https://raw.githubusercontent.com/Amaresh-Saravanan/Amaresh-Saravanan/main/banner.png" width="100%" alt="Amaresh Saravanan - Header Banner" style="border-radius: 12px;" />
 
   <br/><br/>
 
