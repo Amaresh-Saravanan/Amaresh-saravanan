@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FACFE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+NLP+Enthusiast+%F0%9F%A7%A0;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Intelligent+Web+Experiences+%F0%9F%92%A1;Open+to+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FACFE&center=true&vCenter=true&width=650&lines=Full-Stack+%26+AI%2FML+Developer+%F0%9F%9A%80;FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+Next.js;RAG+%E2%80%A2+LangGraph+%E2%80%A2+XGBoost+%E2%80%A2+MediaPipe;Building+Products+End+to+End+%F0%9F%92%A1;Open+to+Internships+%F0%9F%A4%9D" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,19 +24,19 @@
 
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="270" alt="coding gif" />
 
-I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in Computer Science at SRM Institute of Science and Technology*. I build modern web & mobile applications with **React, TypeScript and Node.js**, while crafting practical **ML & NLP-based tools**.
+CS student at **SRM Institute of Science and Technology** and self-taught developer. I build **full-stack and AI/ML products end to end** — from ML models and APIs to databases and polished frontends. Looking for a **full-stack or AI/ML internship** where I can ship real products and learn from experienced engineers.
 
 ```yaml
 ╔══════════════════════════════════════════╗
-║  Name      : Amaresh Saravanan          ║
-║  Role      : Full-Stack Dev & AI Eng    ║
-║  Location  : Erode, Tamil Nadu, India   ║
-║  Education : B.Tech CS @ SRM IST        ║
-║  Grad Year : June 2028 (Expected)       ║
-║  Current   : Web Dev Intern @           ║
-║              Vikram Technologies        ║
-║  Focus     : React · TS · Node · ML    ║
-║  Status    : Open to Collaborations 🤝  ║
+║  Name      : Amaresh Saravanan           ║
+║  Role      : Full-Stack & AI/ML Dev      ║
+║  Location  : Erode, Tamil Nadu, India    ║
+║  Education : B.Tech CSE @ SRM IST        ║
+║  Grad Year : June 2028 (Expected)        ║
+║  Current   : Freelance Dev @             ║
+║              Vikram Technologies         ║
+║  Focus     : FastAPI · React · RAG · ML  ║
+║  Status    : Open to Internships 🤝      ║
 ╚══════════════════════════════════════════╝
 ```
 
@@ -49,19 +49,14 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 ### 💬 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript&theme=dark" alt="Languages" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" alt="Rust" />
 </p>
 
 ### 🎨 Frontend & Mobile
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=black&labelColor=0d1117" alt="Next.js" />
@@ -71,59 +66,100 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
 </p>
 
-### ⚙️ Backend, Databases & Cloud
+### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql,mysql&theme=dark" alt="Backend" />
-</p>
-<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0d1117" alt="Django" />
+  <img src="https://img.shields.io/badge/Django_REST-A30000?style=for-the-badge&logo=django&logoColor=white&labelColor=0d1117" alt="Django REST Framework" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black&labelColor=0d1117" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Shopify-96BE28?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0d1117" alt="Shopify" />
-  <img src="https://img.shields.io/badge/Liquid-4facfe?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0d1117" alt="Liquid" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0d1117" alt="LangGraph" />
 </p>
 
-### 🤖 AI / ML & Developer Tools
+### 🗄️ Databases & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,docker,vscode,github,postman&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117" alt="PostGIS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0d1117" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Shopify-96BE28?style=for-the-badge&logo=shopify&logoColor=white&labelColor=0d1117" alt="Shopify" />
 </p>
+
+### 🤖 AI / ML
+
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/NLP-4ECDC4?style=for-the-badge&logo=buffer&logoColor=white&labelColor=0d1117" alt="NLP" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/NLP-4ECDC4?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="NLP" />
+  <img src="https://img.shields.io/badge/RAG-4facfe?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="RAG" />
+</p>
+
+### ⛓️ Blockchain & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white&labelColor=0d1117" alt="Solana" />
+  <img src="https://img.shields.io/badge/Anchor-4facfe?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Anchor" />
+  <img src="https://img.shields.io/badge/Circom-4facfe?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Circom" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117" alt="Postman" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🌧️ **RAIN-AI** | Regime-aware ML models that bias-correct rainfall forecasts and predict heavy rain by district. FastAPI + PostGIS serve forecast and risk APIs. | Python · FastAPI · PostgreSQL/PostGIS · XGBoost |
+| 🎓 **Capacity-Connect** | Learning management portal with a RAG chatbot used across the whole app. 14-table Supabase DB, 29-endpoint FastAPI backend. | FastAPI · Supabase · Alembic · Next.js |
+| 🚨 **Multi-Agent Disaster Response** | 8-agent system turning IoT, weather and satellite events into rescue advice. JWT role-based access, audit log, 140+ automated tests. | Python · FastAPI · LangGraph · Redis · PostGIS · Next.js |
+| 🤟 **SignBridge** *(Live on Vercel)* | Real-time ASL fingerspelling-to-text in the browser at 98% accuracy, with no camera frames uploaded. 3D avatar signs typed text. | React · TypeScript · MediaPipe · Neon Postgres |
+| 🔒 **DarkBid** *(Live demo)* | Sealed-bid auction on Solana. Bids are committed on-chain and hidden until reveal, preventing front-running. ZK proof check in progress. | Rust · Axum · PostgreSQL · Solana (Anchor) · Circom · React |
 
 ---
 
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🏢 Web Developer Intern &nbsp;·&nbsp; Vikram Technologies &nbsp;·&nbsp; Dec 2025 – Feb 2026</b></summary>
+<summary><b>🏢 Full Stack Developer Intern &nbsp;·&nbsp; Zigma Global Environ Solutions &nbsp;·&nbsp; Jun 15 – Jul 15, 2026</b></summary>
 <br/>
 
-> **E-Commerce Website Development** &nbsp;|&nbsp; Erode, India *(Remote)*
+> Erode, India
 
-| Responsibility | Impact |
-|---|---|
-| 🛍️ Maintained & customized Shopify platform | Computer & electronics e-commerce |
-| 🎨 Optimized storefront layout & product pages | Improved UX & conversion rate |
-| 📦 Managed product catalog & inventory | Structured data management |
-| 📱 Implemented responsive design with Liquid | Cross-device compatibility |
+- Built **Zigfly ERP** for admins: frontend, backend and database
+- Delivered a **44% performance improvement** and **80% test coverage**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0d1117" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=0d1117" alt="Django" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117" alt="MongoDB" />
+</p>
+
+</details>
+
+<details open>
+<summary><b>🛍️ Freelance Full-Stack Developer &nbsp;·&nbsp; Vikram Technologies &nbsp;·&nbsp; Dec 2025 – Current</b></summary>
+<br/>
+
+> Erode, India *(Remote)* · [vikramtech.com](https://vikramtech.com)
+
+- Built and maintain the live **Shopify** store for a computer dealer
+- Imported **83 products** into automated collections; set up delivery, returns and payments
 
 <p>
   <img src="https://img.shields.io/badge/Shopify-96BE28?style=flat-square&logo=shopify&logoColor=white&labelColor=0d1117" alt="Shopify" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Liquid-4facfe?style=flat-square&logo=shopify&logoColor=white&labelColor=0d1117" alt="Liquid" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
 </p>
 
 </details>
@@ -132,9 +168,10 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 
 ## 🎓 Education
 
-| 🏛️ Institution | 📚 Degree | 📍 Location | 📅 Graduation | ⭐ Focus |
-|---|---|---|---|---|
-| **SRM Institute of Science and Technology** | B.Tech — Computer Science | Chennai, India | **June 2028** (Expected) | Web Dev · ML · AI · NLP |
+| 🏛️ Institution | 📚 Degree | 📍 Location | 📅 Graduation |
+|---|---|---|---|
+| **SRM Institute of Science and Technology** | B.Tech — Computer Science and Engineering | Chennai, India | **June 2028** (Expected) |
+
 
 ---
 
@@ -170,11 +207,11 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 | 🖥️ Technical | 👥 Professional |
 |:---:|:---:|
 | Full-Stack Web Development | Collaborative Teamwork |
-| React & TypeScript Ecosystem | Effective Time Management |
-| Backend Architecture & REST APIs | Problem-Solving Mindset |
-| Machine Learning & NLP | Attention to Detail |
-| Database Design (SQL & NoSQL) | Quick Learner & Adaptable |
-| E-Commerce (Shopify / Liquid) | Optimistic & Proactive |
+| FastAPI / Django Backends & REST APIs | Effective Time Management |
+| React, Next.js & TypeScript | Problem-Solving Mindset |
+| ML, NLP, RAG & Multi-Agent Systems | Attention to Detail |
+| PostgreSQL/PostGIS, MongoDB, Redis | Quick Learner & Adaptable |
+| Shopify / Liquid E-Commerce | Optimistic & Proactive |
 
 </p>
 
@@ -183,12 +220,11 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 ## 🎯 Currently Learning & Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Advanced_React_Patterns-Hooks_·_Context_·_Performance-4facfe?style=for-the-badge&labelColor=0d1117" alt="React" /><br/><br/>
-  <img src="https://img.shields.io/badge/RAG_Systems-Retrieval_Augmented_Generation_with_LLMs-4facfe?style=for-the-badge&labelColor=0d1117" alt="RAG" /><br/><br/>
-  <img src="https://img.shields.io/badge/NLP_%26_LLMs-Intelligent_Text_Processing_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="NLP" /><br/><br/>
-  <img src="https://img.shields.io/badge/Headless_Commerce-Shopify_Advanced_%2B_API-4facfe?style=for-the-badge&labelColor=0d1117" alt="Commerce" /><br/><br/>
+  <img src="https://img.shields.io/badge/RAG_%26_LLM_Agents-LangGraph_·_Retrieval_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="RAG" /><br/><br/>
+  <img src="https://img.shields.io/badge/Zero--Knowledge_Proofs-Circom_·_Solana_·_Anchor-4facfe?style=for-the-badge&labelColor=0d1117" alt="ZK" /><br/><br/>
+  <img src="https://img.shields.io/badge/Rust-Axum_·_Backend_Systems-4facfe?style=for-the-badge&labelColor=0d1117" alt="Rust" /><br/><br/>
   <img src="https://img.shields.io/badge/Cloud_%26_DevOps-Docker_·_CI%2FCD_Pipelines-4facfe?style=for-the-badge&labelColor=0d1117" alt="Cloud" /><br/><br/>
-  <img src="https://img.shields.io/badge/AI%2FML_Integration-Practical_ML_in_Web_Apps-4facfe?style=for-the-badge&labelColor=0d1117" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/AI%2FML_in_Production-Practical_ML_in_Web_Apps-4facfe?style=for-the-badge&labelColor=0d1117" alt="AI/ML" />
 </p>
 
 ---
@@ -205,7 +241,7 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
   </a>
   &nbsp;
   <a href="https://github.com/Amaresh-Saravanan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-4facfe?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
   </a>
 </p>
 
@@ -216,6 +252,5 @@ I'm a **Full-Stack Developer** and aspiring **AI Engineer** pursuing *B.Tech in 
 </p>
 
 <p align="center">
-  <sub>⭐ <b>If you find my work interesting, feel free to star some repos and reach out for collaborations!</b></sub><br/>
-  <sub><i>My public repos showcase my learning journey. My most impactful work lives in private projects — client work & team collabs.</i></sub>
+  <sub><i>Most of my impactful work lives in private repos — client work and team projects.</i></sub>
 </p>
